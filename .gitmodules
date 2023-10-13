@@ -1,3 +1,3 @@
 [submodule "ecommerce-admin"]
-	path = admin
-	url =https://github.com/ashfaqrafin/ecommerce-admin.git
+	path = ecommerce-admin
+	url = https://github.com/ashfaqrafin/ecommerce-admin.git
