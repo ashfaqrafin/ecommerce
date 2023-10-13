@@ -1,0 +1,3 @@
+[submodule "ecommerce-admin"]
+	path = admin
+	url = https://github.com/ashfaqrafin/Discord-Clone.git
